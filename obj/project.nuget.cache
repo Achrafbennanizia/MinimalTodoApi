@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h9spEaOnYhs=",
+  "success": true,
+  "projectFilePath": "/Users/achraf/pro/C#_Net/MinimalTodoApi/MinimalTodoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/achraf/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/achraf/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
